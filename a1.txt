@@ -1,5 +1,8 @@
 fetching
 adding
 fghfdhgchgfdjff
+<<<<<<< HEAD
 fuyrye kuiyiu
 uttuuu
+hjyioou
+>>>>>>> 7f2ddf5 (fetching)
